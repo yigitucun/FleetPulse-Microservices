@@ -7,7 +7,7 @@
   <img src="https://img.shields.io/badge/Keycloak-OAuth2-orange?style=for-the-badge&logo=keycloak" />
 </p>
 
-FleetPulse, araç filolarını gerçek zamanlı olarak izlemek, hız ihlallerini tespit etmek ve uyarı oluşturmak için tasarlanmış bir **mikroservis tabanlı** filo yönetim sistemidir.
+araç filolarını gerçek zamanlı olarak izlemek, hız ihlallerini tespit etmek ve uyarı oluşturmak için tasarlanmış bir filo yönetim sistemidir.
 
 ---
 
